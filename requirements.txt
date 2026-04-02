@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+opencv-python
+Pillow
+scikit-learn
+scikit-image
+mysql-connector-python
