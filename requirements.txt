@@ -1,8 +1,8 @@
 streamlit
 numpy
-pandas
-opencv-python
-Pillow
-scikit-learn
+pillow
 scikit-image
-mysql-connector-python
+scikit-learn
+opencv-python-headless
+joblib
+matplotlib
